@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "user": "bmw_life",
+    "location": "New York, EUA",
+    "avatar": "/images/avatars/bmw.jpg",
+    "image": "/images/posts/bmwgif.gif",
+    "alt": "Bmw fazendo drift",
+    "likes": 998,
+    "caption": "BMW + drift: where precision meets controlled chaos. 🔥🚗"
+  },
+  {
+    "id": 2,
+    "user": "viajante",
+    "location": "Rio de Janeiro, Brasil",
+    "avatar": "/images/avatars/cristotj.jpg",
+    "caption": "Na pista com o uninho🔥",
+    "image": "/images/posts/unoescada.jpg",
+    "alt": "uno na pista",
+    "likes": 342
+    
+  },
+  {
+    "id": 3,
+    "user": "omarketero",
+    "location": "São Paulo, Brasil",
+    "avatar": "/images/avatars/logo1.jpg",
+    "image": "/images/posts/roysgif.gif",
+    "alt": "rolls royce na pista",
+    "likes": 999,
+    "caption": "rolls royce acelerando nas pistas de São Paulo!!!"
+  }, 
+   {
+    "id": 4,
+    "user": "unabanana",
+    "location": "Los Angeles, Brasil",
+    "avatar": "/images/avatars/bana.jpg",
+    "image": "/images/posts/banana.jpg",
+    "alt": "Xícara de café ao lado de um teclado",
+    "likes": 66,
+    "caption": "Banana car cruising through the streets of LA. 🍌🚗✨"
+  },
+  {
+    "id": 5,
+    "user": "castiel",
+    "location": "Bahia, Brasil",
+    "avatar": "/images/avatars/castiel.jpg",
+    "image": "/images/posts/sobren.jpg",
+    "alt": "Xícara de café ao lado de um teclado",
+    "likes": 1889,
+    "caption": "Castiel vai pra Bahia comer cuscuz com farófa e carne de sol!"
+  }, 
+   {
+    "id": 6,
+    "user": "gabriellindoaugusto",
+    "location": "Acre, Brasil",
+    "avatar": "/images/avatars/gabriel.jpg",
+    "image": "/images/posts/tijolo.jpg",
+    "alt": "Xícara de café ao lado de um teclado",
+    "likes": 67,
+    "caption": "Minha nova conquista. Nunca foi sorte Sempre foi Deus!  #FocoForça&Fé"
+    
+  }
+]
